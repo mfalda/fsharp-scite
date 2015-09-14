@@ -1,6 +1,6 @@
 ##fsharp-scite
 
-In this repository there is an alpha-quality SciTE extension for ScriptManager and a F# properties file for syntax and other commands. I put here my work in the hope that someone more skilled than me in SciTE internals will make a better estension.
+In this repository there is an alpha-quality SciTE extension for ScriptManager and a F# properties file for syntax and other commands.
 
 
 ## Features
