@@ -18,7 +18,7 @@ In this repository there is an alpha-quality SciTE extension for ScriptManager a
 
 ## Screenshot
 
-![fsharp-scite](https://raw.githubusercontent.com/fsharp-scite/ss.png)
+![fsharp-scite](https://github.com/mfalda/fsharp-scite/blob/master/ss.png)
 
 
 ## Installation
